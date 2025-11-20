@@ -25,6 +25,10 @@ Provides cluster interpretation:
   ├── kmeans_inventory_model.joblib
   
   ├── inventory_scaler.joblib
+
+  ├── train.py
+  
+  ├── supermarket_inventory.xlsx  
   
   └── app.py
 
